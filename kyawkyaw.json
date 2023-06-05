@@ -1,8 +1,8 @@
 {
 // version for updating, if there is an update, need to change more numbers than before
-"Version":"1.1",
+"Version":"1.2",
 //link for server update
-"Url":"https://github.com/KyawHtoo5/KyawHtoo/raw/main/kyawhtoo.zip" ,
+"Url":"https://github.com/KyawHtoo5/KyawHtoo/raw/main/kyaw.zip" ,
 "Changelog":"ကြိုက်တာရေးထည့်ပါ
 ",
 // don't mess with the bottom
